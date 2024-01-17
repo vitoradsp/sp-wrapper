@@ -58,7 +58,6 @@ class Downloader(Get_yt_music):
     
     def download_songg(self):
         ydl_opts = {
-            'verbose': True,
             'format':'bestaudio/best',
             'postprocessors':[
             {
