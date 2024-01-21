@@ -1,2 +1,2 @@
 # sp-wrapper
-Takes a spotify playlist link, converts and downloads all found songs in a list.
+Takes a spotify playlist link, converts and downloads all songs from the list.
