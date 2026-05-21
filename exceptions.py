@@ -1,5 +1,6 @@
 class SpotifyError(Exception):
-    pass
+    """Raised when the Spotify playlist URL or API call fails."""
+
 
 class YoutubeError(Exception):
-    pass
+    """Raised when YouTube Music search or download fails."""
